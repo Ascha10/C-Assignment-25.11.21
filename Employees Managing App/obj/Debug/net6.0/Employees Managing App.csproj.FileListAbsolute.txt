@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\bin\Debug\net6.0\Employees Managing App.exe
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\bin\Debug\net6.0\Employees Managing App.deps.json
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\bin\Debug\net6.0\Employees Managing App.runtimeconfig.json
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\bin\Debug\net6.0\Employees Managing App.dll
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\bin\Debug\net6.0\ref\Employees Managing App.dll
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\bin\Debug\net6.0\Employees Managing App.pdb
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.AssemblyInfo.cs
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.dll
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\ref\Employees Managing App.dll
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.pdb
+C:\Users\user1\Desktop\c#\Employees Managing App\Employees Managing App\obj\Debug\net6.0\Employees Managing App.genruntimeconfig.cache
